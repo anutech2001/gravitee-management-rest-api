@@ -2,7 +2,7 @@
   "description": "Gravitee.io",
   "paths": {},
   "resources": [],
-  "properties" : [ ],
+  "properties": [],
   "groups": [
     "My Group"
   ],
@@ -50,6 +50,7 @@
           }
         ]
       },
+      "flows": [],
       "comment_required": false
     }
   ],
